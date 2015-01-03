@@ -1,0 +1,14 @@
+{
+  "resources" : {
+    "bannerPositionLabel": "Banner Position",
+    "bannerPositionHelpText": "",
+    "policyLinkLabel": "Link to Privacy Policy",
+    "policyLinkHelpText": "",
+    "effectLabel": "Animation Effect",
+    "effectHelpText": "",
+    "effectDurationLabel": "Effect Duration (ms)",
+    "effectDurationHelpText": "",
+    "consentRequiredCountriesLabel": "Countries to challenge",
+    "consentRequiredCountriesHelpText": "Comma-delimitted list of ISO Country Codes"
+  }
+}

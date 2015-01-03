@@ -1,0 +1,9 @@
+{
+  "extensionID": "aedbf8b9-adeb-48c4-90a9-6beb06a384a9",
+  "developerID": "999999",
+  "createdBy": "Ian Davis",
+  "name": "Cookie Consent Extension",
+  "description": "Cookie Consent for EU Cookie Law compliance. It uses code from http://www.codingdivas.net and GeoIP from http://www.telize.com",
+  "version" :1,
+  "timeCreated": "2014-01-01"
+}

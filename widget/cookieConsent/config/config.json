@@ -1,0 +1,40 @@
+{
+    "widgetDescriptorName": "Cookie Consent",
+    "properties": [
+        {
+            "id": "bannerPosition",
+            "type": "stringType",
+            "name": "bannerPosition",
+            "helpTextResourceId": "bannerPositionHelpText",
+            "labelResourceId": "bannerPositionLabel"
+        },
+        {
+            "id": "effect",
+            "type": "stringType",
+            "name": "effect",
+            "helpTextResourceId": "effectHelpText",
+            "labelResourceId": "effectLabel"
+        },
+        {
+            "id": "effectDuration",
+            "type": "stringType",
+            "name": "effectDuration",
+            "helpTextResourceId": "effectDurationHelpText",
+            "labelResourceId": "effectDurationLabel"
+        },
+        {
+            "id": "policyLink",
+            "type": "stringType",
+            "name": "policyLink",
+            "helpTextResourceId": "policyLinkHelpText",
+            "labelResourceId": "policyLinkLabel"
+        },
+        {
+            "id": "consentRequiredCountries",
+            "type": "stringType",
+            "name": "consentRequiredCountries",
+            "helpTextResourceId": "consentRequiredCountriesHelpText",
+            "labelResourceId": "consentRequiredCountriesLabel"
+        }
+    ]
+}
