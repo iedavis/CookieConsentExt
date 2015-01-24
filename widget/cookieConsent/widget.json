@@ -4,7 +4,6 @@
   "i18nresources": "cookieConsent",
   "global": true,
   "globalEnabled": true,
-  "availableToAllPages": true,
   "jsEditable": true,
   "config": {
     "bannerPosition":"bottom",
